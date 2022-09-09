@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp">
+
+
+    <TextView
+        android:id="@+id/txtvUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        tools:ignore="RelativeOverlap"
+        tools:text="john@2000" />
+
+
+    <ImageView
+        android:id="@+id/ivPost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtvUsername"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:contentDescription="@string/image_posted"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageButton
+        android:id="@+id/imgbtnheart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivPost"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/settings"
+        android:src="@drawable/cards_heart_outline" />
+
+    <ImageButton
+        android:id="@+id/imgbtncomment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivPost"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@+id/imgbtnheart"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/settings"
+        android:src="@drawable/comment_outline" />
+
+    <ImageButton
+        android:id="@+id/imgbtnsend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivPost"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@+id/imgbtncomment"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/settings"
+        android:src="@drawable/send1" />
+
+    <ImageButton
+        android:id="@+id/imgbtnsave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ivPost"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="10dp"
+        android:backgroundTint="@color/white"
+        android:contentDescription="@string/settings"
+        android:src="@drawable/save" />
+
+
+    <TextView
+        android:id="@+id/txtvDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgbtncomment"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        tools:text="My headshot" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/txtvDescription" />
+
+</RelativeLayout>
