@@ -3,9 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable-v24/account.xml" value="0.1" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable-v24/account_outline.xml" value="0.1" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable-v24/camera.xml" value="0.1" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable-v24/cards_heart_outline.xml" value="0.1" />
         <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable-v24/comment_outline.xml" value="0.1945" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable-v24/home.xml" value="0.1" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable-v24/home_outline.xml" value="0.1" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/drawable/account_selector.xml" value="0.1" />
         <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/font/instagram_font.xml" value="0.234375" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/layout/compose.xml" value="0.15" />
         <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/layout/fragment_post.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/layout/profile.xml" value="0.22" />
         <entry key="..\:/Users/pc/Desktop/igclone/app/src/main/res/layout/toolbar_main.xml" value="0.17074275362318841" />
         <entry key="app/src/main/res/drawable-v24/account.xml" value="0.1445" />
         <entry key="app/src/main/res/drawable-v24/account_outline.xml" value="0.1445" />
