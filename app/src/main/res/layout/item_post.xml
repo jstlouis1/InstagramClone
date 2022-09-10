@@ -82,7 +82,7 @@
         android:layout_below="@+id/imgbtncomment"
         android:layout_marginStart="10dp"
         android:layout_marginTop="5dp"
-        tools:text="My headshot" />
+        tools:text="the life is good" />
 
     <Space
         android:layout_width="match_parent"

@@ -1,6 +1,6 @@
-# Project 3 - *igclone*
+# Project 3 - *instagramclone*
 
-**igclone** is a photo sharing app similar to Instagram but using Parse as its backend.
+**instagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **15** hours spent in total
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university/vqsncx7Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Peek.
 
