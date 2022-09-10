@@ -67,23 +67,23 @@
         android:id="@+id/btnLogin"
         android:layout_width="350dp"
         android:layout_height="60dp"
-        android:orientation="vertical"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
-        android:backgroundTint="@color/blue"
-        android:textColor="@color/white"
-        android:text="@string/log_in" />
+        android:backgroundTint="#F30202"
+        android:orientation="vertical"
+        android:text="@string/log_in"
+        android:textColor="@color/white" />
 
     <Button
         android:id="@+id/btnSignUP"
         android:layout_width="350dp"
         android:layout_height="60dp"
-        android:orientation="vertical"
-        android:layout_marginTop="10dp"
-        android:textColor="@color/white"
         android:layout_gravity="center"
-        android:backgroundTint="@color/green"
-        android:text="@string/sign_up" />
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/black"
+        android:orientation="vertical"
+        android:text="@string/sign_up"
+        android:textColor="@color/white" />
 
 
 </LinearLayout>
