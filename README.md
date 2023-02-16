@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 
 GIF created with Peek.
 
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university/vqsncx7Q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## Notes
 
 Describe any challenges encountered while building the app.
